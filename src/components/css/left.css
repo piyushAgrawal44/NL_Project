@@ -1,0 +1,77 @@
+.container-fluid{
+    background-color: #000000;
+}
+
+.profile{
+    align-items: center;
+    align-self: center;
+}
+a{
+    text-decoration: none;
+}
+input{
+    background: #242731 !important;
+    outline: none !important;
+    color: white !important;
+}
+input:focus{
+    outline: none !important;
+}
+.profile-pic{
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    background-color: #3772FF;
+    color: white;
+    font-weight: 700;
+    border-radius: 50%;
+    padding-top: 3px;
+}
+.left{
+    border-right: 1px solid rgb(107, 104, 104);
+}
+.section{
+    padding: 10px;
+    display: flex;
+}
+.section-name{
+    margin-left: 8px;
+}
+.left-bottom-box{
+    margin-top: 100px;
+}
+.left-bottom-box-btn{
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #191B20;
+    color: white;
+    font-size: 15px;
+    border: 0px;
+    outline: none;
+}
+
+.left-bottom-box-btn2{
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(170, 219, 238);
+    color: rgb(58, 39, 223);
+    font-size: 15px;
+    border: 0px;
+    outline: none;
+}
+.globe-icon{
+    color: #808191;
+}
+#input-bottom{
+    max-width: 70px;
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: #353945;
+    color: #808191;
+}

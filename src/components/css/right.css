@@ -1,0 +1,15 @@
+.btn-avalanche{
+    background-color: #353945;
+    color: white;
+}
+.cos_link{
+    margin-left: 10px;
+}
+.cancel-btn{
+    background-color: #000000;
+    padding: 7px;
+    border-radius: 5px;
+    border: 0px;
+    outline: none;
+    color: white;
+}
