@@ -132,7 +132,7 @@ export default function Left() {
             <div className='left-bottom-box container-fluid p-0'>
                 <div className="row d-flex p-0">
 
-                    <div className="col-6"><a type='button' className='left-bottom-box-btn'>
+                    <div className="col-6"><a type='button' href="https://learn-tech-tips.blogspot.com/" className='left-bottom-box-btn'>
                         <div className="d-flex profile">
                             <div className="profile-pic">
                                 N

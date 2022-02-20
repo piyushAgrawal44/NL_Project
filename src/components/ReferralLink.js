@@ -1,6 +1,6 @@
 
 // import './components/Left.js';
-function Referral_link({link}) {
+function ReferralLink({link}) {
     return (
         <div className='referral-link-col'>
             <div>
@@ -26,4 +26,4 @@ function Referral_link({link}) {
     );
 }
 
-export default Referral_link;
+export default ReferralLink;

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 
 import './css/center.css';
 import Data from "./Data";
-import Referral_link from "./Referral_link";
+import ReferralLink from "./ReferralLink";
 import bitcoin from "../imgs/bitcoin.jpg";
 // import './components/Left.js';
 function Center() {
@@ -81,10 +81,10 @@ function Center() {
 
             <div className="row mt-3">
                 <div className="col-6">
-                    <Referral_link link={"https://www.google.com/"} />
+                    <ReferralLink link={"https://www.google.com/"} />
                 </div>
                 <div className="col-6">
-                    <Referral_link link={"https://www.facebook.com/"} />
+                    <ReferralLink link={"https://www.facebook.com/"} />
                 </div>
             </div>
 

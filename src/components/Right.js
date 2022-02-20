@@ -13,9 +13,9 @@ function Right() {
                             </svg> Avalanche
                         </button>
                         <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                            <li><a className="dropdown-item" href="#">Action</a></li>
-                            <li><a className="dropdown-item" href="#">Another action</a></li>
-                            <li><a className="dropdown-item" href="#">Something else here</a></li>
+                            <li><a className="dropdown-item" href="https://learn-tech-tips.blogspot.com/">Action</a></li>
+                            <li><a className="dropdown-item" href="https://learn-tech-tips.blogspot.com/">Another action</a></li>
+                            <li><a className="dropdown-item" href="https://learn-tech-tips.blogspot.com/">Something else here</a></li>
                         </ul>
                     </div>
                 </div>
@@ -27,9 +27,9 @@ function Right() {
                             </svg> XF06...
                         </button>
                         <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                            <li><a className="dropdown-item" href="#">Action</a></li>
-                            <li><a className="dropdown-item" href="#">Another action</a></li>
-                            <li><a className="dropdown-item" href="#">Something else here</a></li>
+                            <li><a className="dropdown-item" href="https://learn-tech-tips.blogspot.com/">Action</a></li>
+                            <li><a className="dropdown-item" href="https://learn-tech-tips.blogspot.com/">Another action</a></li>
+                            <li><a className="dropdown-item" href="https://learn-tech-tips.blogspot.com/">Something else here</a></li>
                         </ul>
                     </div>
                 </div>
