@@ -13,3 +13,6 @@
     outline: none;
     color: white;
 }
+.dropdown-toggle:hover{
+    color: white;
+}
