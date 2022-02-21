@@ -29,7 +29,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Home</span>
+                  <a href="https://www.google.com/"><span className='section-name'>Home</span></a>  
                 </div>
             </div>
             <div className="row section text-light">
@@ -41,7 +41,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Section 1</span>
+                <a href="https://www.google.com/"><span className='section-name'>Section 1</span></a>
                 </div>
             </div>
             <div className="row section text-light">
@@ -52,7 +52,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Section 2</span>
+                <a href="https://www.google.com/"><span className='section-name'>Section 2</span></a>
                 </div>
             </div>
             <div className="row section text-light">
@@ -62,7 +62,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Section 3</span>
+                <a href="https://www.google.com/"><span className='section-name'>Section 3</span></a>
                 </div>
             </div>
             <div className="row section text-light">
@@ -72,7 +72,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Section 4</span>
+                <a href="https://www.google.com/"><span className='section-name'>Section 4</span></a>
                 </div>
             </div>
             <div className="row section text-light">
@@ -84,7 +84,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Section 5</span>
+                <a href="https://www.google.com/"><span className='section-name'>Section 5</span></a>
                 </div>
             </div>
             <div className="row section text-light">
@@ -94,7 +94,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Section 6</span>
+                <a href="https://www.google.com/"><span className='section-name'>Section 6</span></a>
                 </div>
             </div>
             <div className="row section text-light">
@@ -104,7 +104,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Section 7</span>
+                <a href="https://www.google.com/"><span className='section-name'>Section 7</span></a>
                 </div>
             </div>
             <div className="row section text-light">
@@ -114,7 +114,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Section 8</span>
+                <a href="https://www.google.com/"><span className='section-name'>Section 8</span></a>
                 </div>
             </div>
             <div className="row section text-light">
@@ -125,7 +125,7 @@ export default function Left() {
                     </svg>
                 </div>
                 <div className="col-10">
-                    <span className='section-name'>Documentation</span>
+                <a href="https://www.google.com/"><span className='section-name'>Documentation</span></a>
                 </div>
             </div>
 
